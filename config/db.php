@@ -6,4 +6,5 @@ return [
     'username' => 'root',
     'password' => '1234',
     'charset' => 'utf8',
+    'tablePrefix'=>'clndr_',
 ];
